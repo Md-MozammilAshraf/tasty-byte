@@ -1,0 +1,32 @@
+.video-section{
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.video-section {
+    position: relative; 
+    
+    min-height: 700px;
+    display: grid;
+    color: rgb(253, 247, 247); 
+    place-items: center;
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 80px;
+}
+.video-section .container{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    margin-top: 300px
+}
+.video-section video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+    opacity: 0.8;
+    width: 100%;
+
+}
