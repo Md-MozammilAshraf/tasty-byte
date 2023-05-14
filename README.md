@@ -27,3 +27,12 @@ Check out the live demo at https://tasty-byte-ashraf.netlify.app/
 
 ## 📷 Screenshots
 TastyBytes  Preview
+![tasty1](https://github.com/Md-MozammilAshraf/tasty-byte/assets/127433098/92deac37-84ff-4d5d-b92a-6a9af91e19b5)
+![tasty 2](https://github.com/Md-MozammilAshraf/tasty-byte/assets/127433098/0fc45e79-c0fc-4646-ba37-e98ed2506f0c)
+![tasty 3](https://github.com/Md-MozammilAshraf/tasty-byte/assets/127433098/9d498ab7-c73d-4aea-9aff-fe8150f266e1)
+![tasty 4](https://github.com/Md-MozammilAshraf/tasty-byte/assets/127433098/b1cb80e6-97df-4061-a397-070ab02df782)
+![tasty 5](https://github.com/Md-MozammilAshraf/tasty-byte/assets/127433098/1c1f37db-fd28-40a2-8795-e160cc2a674e)
+![tasty 6](https://github.com/Md-MozammilAshraf/tasty-byte/assets/127433098/24031c35-7689-41e0-81de-e40e1c81546b)
+![tasty 7](https://github.com/Md-MozammilAshraf/tasty-byte/assets/127433098/22dad41a-d679-454c-9532-ce05e60b913d)
+
+
