@@ -10,7 +10,7 @@ body {
 }
 
 a {
-    color:blue
+    color:rgb(43, 43, 203)
 }
 
 header {
@@ -90,7 +90,7 @@ color: #ed6019;
     padding-right: 8px;
     font-size: 24px;
     transition: all 0.2s ease;
-    color: rgb(6, 143, 241);
+    color: rgb(235, 37, 37);
 }
 
 .find-store i:hover{
