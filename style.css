@@ -3,6 +3,8 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     font-weight: 400;
     color: black;
+    scroll-behavior: smooth;
+    transition: 0.2s all ease;
 }
 
 * {
@@ -96,7 +98,10 @@ color: #ed6019;
 .find-store i:hover{
     color: #ed6019;
 }
-
+a {
+   color: white;
+    text-decoration: none;
+}
 
 .find-store:hover {
     color: #ed6019;

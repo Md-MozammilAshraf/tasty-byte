@@ -2,6 +2,10 @@
    
    display: flex; 
 }
+a {
+    color: #101211;
+    text-decoration: none;
+}
 
 .left-right-section .text {
     width: 50%;
